@@ -1,0 +1,42 @@
+html,body,h1{
+    margin: 0;
+    padding: 0;
+    }
+     html{
+        background: rgb(254, 255, 216);
+     }
+     article,aside,section,header,footer,nav{
+        display: block;
+     }
+main{
+  width: 660px;
+  background-color: rgb(252, 248, 248);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  box-shadow: 0 0 10px #666;
+  margin: 10px auto;
+  padding: 10px;
+  position: relative;
+  height: 500px;
+}
+#principail{
+    background-color: rgb(33, 240, 102);
+    border: 1px dotted #666666;
+    margin-top: 20px;
+    position: relative;
+}
+section{
+    height: 100px;width: 100px;padding: 10px;
+}
+.janela1{
+background-color: greenyellow;
+position: absolute;
+margin-top: 10px;
+margin-left: 10px;
+}
+.janela2{
+    background-color: yellow;
+}
+.janela3{
+    background-color: rgb(18, 108, 224);
+}
